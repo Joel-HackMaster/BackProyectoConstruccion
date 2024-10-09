@@ -14,9 +14,6 @@ SECRET_KEY = 'django-insecure-hvvttu#$xn*e+k=j8mc+y0-%9b3^70o)=&p=#oy+osy4=!$tyu
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
-
 # Application definition
 
 BASE_APPS = [
