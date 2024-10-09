@@ -2,7 +2,7 @@ from .base import *
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost','web-production-28f99.up.railway.app']
 
 DATABASES = {
     'default': {
