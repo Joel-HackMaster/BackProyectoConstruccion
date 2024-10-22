@@ -113,10 +113,12 @@ USE_TZ = True
 
 CORS_ALLOWED_ORIGINS = [
     "https://landing-page-proyecto-construccion.vercel.app/",
+    "https://quilla-multiservicios.firebaseapp.com/",
 ]
 
 CORS_ORIGIN_WHITELIST = [
     "https://landing-page-proyecto-construccion.vercel.app/",
+    "https://quilla-multiservicios.firebaseapp.com/",
 ]
 
 
