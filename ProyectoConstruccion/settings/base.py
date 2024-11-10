@@ -119,6 +119,7 @@ CORS_ALLOWED_ORIGINS = [
 CORS_ORIGIN_WHITELIST = [
     "https://landing-page-proyecto-construccion.vercel.app/",
     "https://quilla-multiservicios.firebaseapp.com/",
+    "https://quilla-multiservicios.web.app/"
 ]
 
 
